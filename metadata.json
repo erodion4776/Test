@@ -1,0 +1,5 @@
+{
+  "name": "DreamGate Login",
+  "description": "A visually stunning and feature-rich login page for the DreamGate application, recreated in React with Tailwind CSS. It includes email/password login, social authentication buttons, a password reset modal, and an engaging animated interface.",
+  "requestFramePermissions": []
+}
